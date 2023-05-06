@@ -2,7 +2,7 @@
 <h4 align="center">My name is Maria and I'm a junior front-end developer with a passion for building beautiful, responsive websites.</h4>
 <p align="center">I studied Fine Arts and I recently graduated from a coding bootcamp where I learned the fundamentals to become a full stack web developer. Since then, I've been working on various personal projects to hone my skills and gain practical experience.</p>
 
-<p align="center">I'm a self-starter who's always eager to learn and take on new challenges. I enjoy working collaboratively with designers, developers, and other stakeholders to create user-friendly and visually appealing web applications. I have experience with popular front-end frameworks like Angular, and I'm always looking to expand my knowledge and stay up-to-date with the latest web technologies. I’m currently learning <b>php, react</b></p>
+<p align="center">I'm a self-starter who's always eager to learn and take on new challenges. I enjoy working collaboratively with designers, developers, and other stakeholders to create user-friendly and visually appealing web applications. I have experience with popular front-end frameworks like Angular, and I'm always looking to expand my knowledge and stay up-to-date with the latest web technologies. I’m currently learning <b>php, react.</b></p>
 
 <p align="center">Outside of coding, I love drawing and gardening. I'm also a cat mother and an avid reader and enjoy learning about new topics in technology and design. I'm excited to continue growing as a developer and contributing to innovative projects.<p>
 
