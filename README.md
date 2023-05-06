@@ -4,7 +4,7 @@
 
 <p align="center">I'm a self-starter who's always eager to learn and take on new challenges. I enjoy working collaboratively with designers, developers, and other stakeholders to create user-friendly and visually appealing web applications. I have experience with popular front-end frameworks like Angular, and I'm always looking to expand my knowledge and stay up-to-date with the latest web technologies. I’m currently learning <b>php, react.</b></p>
 
-<p align="center">Outside of coding, I love drawing and gardening. I'm also a cat mother and an avid reader and enjoy learning about new topics in technology and design. I'm excited to continue growing as a developer and contributing to innovative projects.<p>
+<p align="center">Outside of coding, I love travelling. I've visit many countries and I've lived in Germany, United States and Australia (apart from Spain). I also like drawing and I'm an avid reader and enjoy learning about new topics in technology and design. I'm excited to continue growing as a developer and contributing to innovative projects.<p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> Design: </p>
