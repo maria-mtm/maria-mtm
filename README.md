@@ -1,10 +1,10 @@
 <h2 align="center">Hello world!👋</h2>
-<h4 align="center">My name is Maria and I'm a junior front-end developer with a passion for building beautiful, responsive websites.</h4>
-<p align="center">I studied Fine Arts and design, and I have recently specialized in the full stack web development.. Since then, I've been working on various personal projects to hone my skills and gain practical experience.</p>
+<h4 align="center">My name is Maria and I'm a junior full stack web developer with a deep passion for building beautiful, responsive and functional websites.</h4>
+<p align="center">I studied Fine Arts and design, and I have recently specialized in the full stack web development.. Since then, I've been working on various personal projects to hone my skills and gain practical experienceI studied Fine Arts and design, and I have recently specialized in full stack web development. Since then, I’ve been working on various personal projects to hone my skills and gain practical experience.</p>
 
-<p align="center">I'm a self-starter who's always eager to learn and take on new challenges. I enjoy working collaboratively with designers, developers, and other stakeholders to create user-friendly and visually appealing web applications. I have experience with popular front-end frameworks like Angular, and I'm always looking to expand my knowledge and stay up-to-date with the latest web technologies. I’m currently learning <b>php, react.</b></p>
+<p align="center">I’m a self-starter who’s always eager to learn and take on new challenges. I enjoy working collaboratively with designers, developers, and other stakeholders to create user-friendly and visually appealing web applications; I have experience with popular front-end frameworks like Angular, and I’m always looking to expand my knowledge and stay up-to-date with the latest web technologies.</p>
 
-<p align="center">Outside of coding, I love travelling. I've visit many countries and I've lived in Germany, United States and Australia (apart from Spain). I also like drawing and I'm an avid reader and enjoy learning about new topics in technology and design. I'm excited to continue growing as a developer and contributing to innovative projects.<p>
+<p align="center">Outside of coding I love traveling, I’ve visited many countries and have lived in Germany, United States and Australia (apart from Spain). I also love drawing and I’m an avid reader that enjoys learning about new topics in technology and design. I’m excited to continue growing as a developer and contributing to innovative projects.<p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> Design: </p>
